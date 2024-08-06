@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2018/04/30/13/47/wallpaper-3362712_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+h2{
+    color:purple;
+    font-style: italic;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
